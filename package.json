@@ -1,0 +1,26 @@
+{
+  "name": "ArduinoExcel",
+  "version": "1.0.0",
+  "description": "Datos de Arduino y los pasa a excel.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [
+    "temperatura",
+    "temperature",
+    "sensor",
+    "arduino",
+    "excel",
+    "node",
+    "mongodb"
+  ],
+  "author": "dahngeek",
+  "license": "ISC",
+  "dependencies": {
+    "keypress": "^0.2.1",
+    "mongoose": "^4.1.8",
+    "msexcel-builder": "0.0.2",
+    "serialport": "^1.7.4"
+  }
+}
